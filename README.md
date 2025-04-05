@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/data.png" alt="AI-Faker" width="300">
+  <img src="images/dataset.pdf" alt="AI-Faker" width="300">
 </p>
 <p align="center">
   <a href="https://github.com/CosimoFang/AI-FAKER"><b>AI-FAKER</b></a>
