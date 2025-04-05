@@ -58,7 +58,7 @@ AI-Faker is intended to be the go-to dataset for **model attribution**, **explan
 ## Installation
 
 You can clone this repository and install dependencies from `requirements.txt`:
-```bash
+```bash```
 git clone https://github.com/your-username/AI-Faker.git
 cd AI-Faker
 pip install -r requirements.txt
