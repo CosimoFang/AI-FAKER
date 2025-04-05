@@ -78,12 +78,12 @@ Subset	Description	# Instances	Category
 
 ## Download the dataset
 
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Labels? | Domains | Dataset Size | GenAI Models |
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Size | Domains | Dataset Size | GenAI Models |
 | -------- | :-------: | :-------: | :------------: | :------------------------------: |
-|**\AIgeneratedimages**|✅|Visual (natural + stylized prompts)|60,000 images (10K real, 50K AI-generated)|Midjourney, DALL-E, SDXL, Stable Diffusion, FLUX|
-|**\AImodifiedimages**|✅|Multimedia (faces from movies, TikTok, YouTube)|28,551 images (6K real + 22.5K swapped)|Inswapper, SimSwap, UniFace, BlendSwap|
-|**\AItextcompletion**|✅|News, Books, Abstracts, Reviews, Reddit, Recipes, Wikipedia, Poetry|60,000 text samples (10K per LLM + human)|GPT-4, Cohere, LLaMA, Mistral, MPT|
-|**\AIpaperreview**|✅|Academic Paper Reviews (OpenReview)|70,000 text samples (10K per LLM + human)|GPT-4o, Claude 3.5, Gemini 1.5, DeepSeek, LLaMA-3, Mistral|
+|<a href="https://drive.google.com/file/d/1i4SlbNtzN2Pn4lSIHxK6sKliswp46OUb/view?usp=sharing"><b>**AI_generated_images**</b></a>|36.43Gb|Visual (natural + stylized prompts)|60,000 images (10K real, 50K AI-generated)|Midjourney, DALL-E, SDXL, Stable Diffusion, FLUX|
+|<a href="https://drive.google.com/file/d/1lciPuPAsiv6jMp0QPhWJtwWYxOA1ZGLX/view?usp=sharing"><b>**AI_modified_images**</b></a>|1.69Gb|Multimedia (faces from movies, TikTok, YouTube)|28,551 images (6K real + 22.5K swapped)|Inswapper, SimSwap, UniFace, BlendSwap|
+|<a href="https://drive.google.com/file/d/1dUnTL9Kb5RGlKVz16GWqxD6jgBgMYV7G/view?usp=sharing"><b>**AI_text_completion**</b></a>|36.3Mb|News, Books, Abstracts, Reviews, Reddit, Recipes, Wikipedia, Poetry|60,000 text samples (10K per LLM + human)|GPT-4, Cohere, LLaMA, Mistral, MPT|
+|<a href="https://drive.google.com/file/d/1f_31prFhRU8FAui3K___UgH6bYAwIFDR/view?usp=sharing"><b>**AI_paper_review**</b></a>|127.6Mb|Academic Paper Reviews (OpenReview)|70,000 text samples (10K per LLM + human)|GPT-4o, Claude 3.5, Gemini 1.5, DeepSeek, LLaMA-3, Mistral|
 
 
 
