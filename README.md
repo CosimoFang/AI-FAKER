@@ -2,13 +2,13 @@
   <img src="images/data.png" alt="AI-Faker" width="300">
 </p>
 <p align="center">
-  <a href="https://github.com/your-username/AI-Faker"><b>https://github.com/CosimoFang/AI-FAKER</b></a>
+  <a href="https://github.com/CosimoFang/AI-FAKER"><b>AI-FAKER</b></a>
 </p>
 <p align="center">
   <b>A Comprehensive Benchmark for Detecting, Attributing, and Explaining AI-Generated Images and Text</b>
 </p>
 <p align="center">
-  <a href="https://github.com/your-username/AI-Faker/actions/workflows/lint.yml">
+  <a href="https://github.com/CosimoFang/AI-Faker">
     <img src="https://img.shields.io/github/actions/workflow/status/your-username/AI-Faker/lint.yml?logo=githubactions&logoColor=white&label=Code%20Style" alt="Code Style"/>
   </a>
   <a href="https://github.com/your-username/AI-Faker/blob/main/LICENSE">
