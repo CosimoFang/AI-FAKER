@@ -78,9 +78,13 @@ Subset	Description	# Instances	Category
 
 ## Download the dataset
 
-Run a baseline classifier for forgery detection and model attribution
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| Labels? | Domains | Dataset Size | GenAI Models |
+| -------- | :-------: | :-------: | :------------: | :------------------------------: |
+|**\AIgeneratedimages**|✅|Visual (natural + stylized prompts)|60,000 images (10K real, 50K AI-generated)|Midjourney, DALL-E, SDXL, Stable Diffusion, FLUX|
+|**\AImodifiedimages**|✅|Multimedia (faces from movies, TikTok, YouTube)|28,551 images (6K real + 22.5K swapped)|Inswapper, SimSwap, UniFace, BlendSwap|
+|**\AItextcompletion**|✅|News, Books, Abstracts, Reviews, Reddit, Recipes, Wikipedia, Poetry|60,000 text samples (10K per LLM + human)|GPT-4, Cohere, LLaMA, Mistral, MPT|
+|**\AIpaperreview**|✅|Academic Paper Reviews (OpenReview)|70,000 text samples (10K per LLM + human)|GPT-4o, Claude 3.5, Gemini 1.5, DeepSeek, LLaMA-3, Mistral|
 
-Evaluate the performance and see if your approach is robust across all AI-Faker subsets
 
 
 ## Citation
