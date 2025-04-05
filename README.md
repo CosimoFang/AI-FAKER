@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/aifaker_logo.png" alt="AI-Faker" width="300">
+  <img src="images/data.png" alt="AI-Faker" width="300">
 </p>
 <p align="center">
-  <a href="https://github.com/your-username/AI-Faker"><b>https://github.com/your-username/AI-Faker</b></a>
+  <a href="https://github.com/your-username/AI-Faker"><b>https://github.com/CosimoFang/AI-FAKER</b></a>
 </p>
 <p align="center">
   <b>A Comprehensive Benchmark for Detecting, Attributing, and Explaining AI-Generated Images and Text</b>
