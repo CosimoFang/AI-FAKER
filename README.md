@@ -20,7 +20,7 @@
 </p>
 
 **AI-Faker** is a large-scale multimodal dataset introduced in the paper  
-[**Could AI *Trace* and *Explain* the Origins of AI-Generated Images and Text?**](https://arxiv.org/abs/XXXXXXXX)  
+[**Could AI *Trace* and *Explain* the Origins of AI-Generated Images and Text?**](https://arxiv.org/abs/2504.04279)  
 It comprises over **280,000** samples spanning different generative AI models:
 - **AI-Generated Images** vs. **AI-Modified Images**  
 - **AI-Text Completion** vs. **AI-Generated Peer Reviews**  
