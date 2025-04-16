@@ -2,7 +2,7 @@
   <img src="images/ai-faker.png" alt="AI-Faker" width="300">
 </p>
 <p align="center">
-  <a href="https://github.com/CosimoFang/AI-FAKER"><b>AI-FAKER</b></a>
+  <a href="https://arxiv.org/abs/2504.04279"><b>AI-FAKER</b></a>
 </p>
 <p align="center">
   <b>A Comprehensive Benchmark for Detecting, Attributing, and Explaining AI-Generated Images and Text</b>
@@ -90,11 +90,13 @@ Subset	Description	# Instances	Category
 ## Citation
 If you find AI-Faker or its accompanying code valuable for your research, please cite our paper:
 ```bibtex
-@article{ExampleAIFaker,
-  title={Could AI Trace and Explain the Origins of AI-Generated Images and Text?},
-  author={Hippocampus, Antiquus S. and Cerebro, Natalia and Amygdale, Amelie P. and Ren, Ji Q. and LeNet, Yevgeny, and others},
-  journal={COLM Conference},
-  year={2025},
-  note={Data and code to be released at https://github.com/your-username/AI-Faker}
+@misc{fang2025aitraceexplainorigins,
+      title={Could AI Trace and Explain the Origins of AI-Generated Images and Text?}, 
+      author={Hongchao Fang and Yixin Liu and Jiangshu Du and Can Qin and Ran Xu and Feng Liu and Lichao Sun and Dongwon Lee and Lifu Huang and Wenpeng Yin},
+      year={2025},
+      eprint={2504.04279},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.04279}, 
 }
 ```
